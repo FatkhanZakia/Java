@@ -15,18 +15,18 @@ Berisi kumpulan projects aplikasi dengan menggunakan bahasa pemogramman `Java`
 2. [Java-DataBase-Barang](https://github.com/FatkhanZakia/Java/tree/master/02-Java-DataBase-Barang)
 <!-- <!-- 3. [Variabel](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/04-variabel.md) -->
 3. [Calculator-Program](https://github.com/FatkhanZakia/Java/tree/master/03-Calculator-Program)
-<!-- 4. [Konversi Tipe Data](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/06-konversi-tipe-data.md)
-4. [Operator](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md)
+<!-- <!-- 4. [Konversi Tipe Data](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/06-konversi-tipe-data.md) -->
+4. [Kasir-Percabangan-Di-Dalam-Percabangan](https://github.com/FatkhanZakia/Java/tree/master/04-Kasir-Percabangan-Di-Dalam-Percabangan)
 
-   a. [Aritmatika](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#aritmatika)
+   <!-- a. [Aritmatika](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#aritmatika)
 
    b. [Komparasi](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#komparasi)
 
    c. [Logika](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#logika)
 
-   d. [Assignment](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#assignment)
+   d. [Assignment](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#assignment) -->
 
-5. Percabangan (Decision)
+<!-- 5. Percabangan (Decision)
 
    a. If-Else
 
@@ -38,9 +38,9 @@ Berisi kumpulan projects aplikasi dengan menggunakan bahasa pemogramman `Java`
 
    b. While
 
-   c. Do-While
+   c. Do-While -->
 
-7. Fungsi (Function)
+<!-- 7. Fungsi (Function)
 
    a. Standard Function
 
