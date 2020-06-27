@@ -4,7 +4,7 @@
 
 # Java
 
-Berisi kumpulan project aplikasi dengan menggunakan bahasa pemogramman Java
+Berisi kumpulan projects aplikasi dengan menggunakan bahasa pemogramman `Java`
 
 ## Daftar Isi
 
